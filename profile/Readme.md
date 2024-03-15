@@ -24,6 +24,5 @@ We welcome contributions from individuals interested in space exploration, engin
 If you have questions, suggestions, or want to discuss space-related topics, feel free to reach out:
 
 - **Email**: [pabloortiz132@gmail.com](mailto:pabloortiz132@gmail.com)
-- **Discord**: [Join our Discord server](https://discord.gg/kdBQUK4w)
 
 Thank you for considering joining our efforts to recreate the wonders of the Apollo program. 🌕✨
